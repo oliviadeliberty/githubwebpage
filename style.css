@@ -22,7 +22,7 @@ nav a{
   padding: 4px;
   margin-right:75px;
 }
-.current_page{
+.current_page a{
   background-color:slategray;
 }
 
