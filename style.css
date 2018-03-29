@@ -46,6 +46,17 @@ div.seperate{
   height:75%;
   clear:none;
 }
+.member{
+  width:50%;
+  border:2px solid black;
+  border-radius:10px;
+  margin:8px;
+  padding:4px;
+}
+member.h3{
+  border-bottom: 1px solid gray;
+  margin-bottom: 0px;
+}
 .catalog{
   height:300px;
   width: 500px;
