@@ -20,7 +20,7 @@ nav a{
   width:20%;
   margin: 4px;
   padding: 4px;
-  margin-right:75px;
+  margin-right:25px;
 }
 .current_page a{
   background-color:slategray;
@@ -40,6 +40,7 @@ article{
   padding: 4px;
   margin: 4px;
   height:250px;
+  overflow:scroll;
 }
 div.seperate{
   width:100%;
